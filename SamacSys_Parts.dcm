@@ -1,0 +1,129 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10018783-10113TLF
+D PCI Express / PCI Connectors x16 164 POS
+F https://componentsearchengine.com/Datasheets/1/10018783-10113TLF.pdf
+$ENDCMP
+#
+$CMP 5-5530843-0
+D Connector 10 way 2.54mm Standard Edge II
+F https://componentsearchengine.com/Datasheets/1/5-5530843-0.pdf
+$ENDCMP
+#
+$CMP 5530843-2
+D AMP - TE CONNECTIVITY - 5530843-2 - CARD EDGE CONNECTOR, RECEPTACLE, 30 POSITION
+F http://uk.rs-online.com/web/p/products/7825109
+$ENDCMP
+#
+$CMP 8-5530843-3
+D AMP - TE CONNECTIVITY - 8-5530843-3 - CARD EDGE CONNECTOR, RECEPTACLE, 24POS
+F https://componentsearchengine.com/Datasheets/1/8-5530843-3.pdf
+$ENDCMP
+#
+$CMP 87715-9208
+D PCI Express / PCI Connectors 98P VERT HOUSING
+F https://componentsearchengine.com/Datasheets/1/87715-9208.pdf
+$ENDCMP
+#
+$CMP A3921KLPTR-T
+D IC FULL BRIDGE CTLR 28TSSOP
+F https://www.allegromicro.com/~/media/Files/Datasheets/A3921-Datasheet.ashx?la=en&hash=97529A83BF6543E7B2E0B23F3CD9C54723611927
+$ENDCMP
+#
+$CMP AE-RN4020-XB
+D RF TXRX MOD BLUETOOTH TRACE ANT
+K RN4020-V/RM-ND
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570043
+$ENDCMP
+#
+$CMP AE-USB2.0-TYPE-C
+D USB 2.0-only Type-C Plug connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x16_164_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x1_36_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x4_64_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x8_98_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP DHN-04-V
+D DIP Switches / SIP Switches Half Pitch Dip switch 1.6mm height
+F https://componentsearchengine.com/Datasheets/1/DHN-04-V.pdf
+$ENDCMP
+#
+$CMP IKD0403101
+D 4 Way Surface Mount DIP Switch SPST, Raised Actuator Slide Actuator
+F http://uk.rs-online.com/web/p/products/8772264
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NVMFD5C446NT1G
+D 40V 2.9 MOHM T8 S08FL DUA
+F https://componentsearchengine.com/Datasheets/1/NVMFD5C446NT1G.pdf
+$ENDCMP
+#
+$CMP NVMFD5C650NLWFT1G
+D Power MOSFET 60V, 111A, 4.2 mOhm, Dual N-Channel, SO8-FL, Logic Level.
+F http://uk.rs-online.com/web/p/products/1723345P
+$ENDCMP
+#
+$CMP PRT-10474
+D Soldering Workstation Equipment XT60 Connectors Male/Female Pair
+F http://cdn.sparkfun.com/datasheets/Prototyping/xt60.pdf
+$ENDCMP
+#
+$CMP PTS647SM38SMTR2LFS
+D Tactile Switches 50mA 12VDC, 1.8N 3.8mm H, G leads
+F https://www.ckswitches.com/media/2567/pts647.pdf
+$ENDCMP
+#
+$CMP SI8650AB-B-IS1
+D Isolator, SI8650AB-B-IS1 Silicon Labs Si8651BB-B-IS1 PCB SMT 5-channel Digital Isolator, 2.5 kV, 16-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/SI8651BB-B-IS1.pdf
+$ENDCMP
+#
+$CMP Si8621AB-B-ISR
+D Digital Isolators 2.5 kV 1 forward & 1 reverse 2-channel isolator
+F https://componentsearchengine.com/Datasheets/1/SI8621AB-B-ISR.pdf
+$ENDCMP
+#
+$CMP Si8651BB-B-IS1
+D Isolator, Si8651BB-B-IS1 Silicon Labs Si8651BB-B-IS1 PCB SMT 5-channel Digital Isolator, 2.5 kV, 16-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/SI8651BB-B-IS1.pdf
+$ENDCMP
+#
+$CMP ULN2004D1013TR
+D ULN2004D1013TR, Darlington Transistor Array, NPN 0.5A 50V, Array 7 HFE:1000, 16-Pin, SO
+F https://componentsearchengine.com/Datasheets/1/ULN2004D1013TR.pdf
+$ENDCMP
+#
+$CMP UUG1H471MNQ6ZD
+D Aluminum Electrolytic Capacitors - SMD 470uF 20% 50V High Capacitance-SMT
+F https://componentsearchengine.com/Datasheets/1/UUG1H471MNQ6ZD.pdf
+$ENDCMP
+#
+#End Doc Library

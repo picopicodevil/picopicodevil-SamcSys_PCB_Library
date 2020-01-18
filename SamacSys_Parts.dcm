@@ -42,6 +42,11 @@ K usb universal serial bus type-C USB2.0
 F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
 $ENDCMP
 #
+$CMP BD63150AFM-E2
+D ROHM BD63150AFM-E2 Motor Driver IC 36-Pin, HSOP-M
+F https://componentsearchengine.com/Datasheets/1/BD63150AFM-E2.pdf
+$ENDCMP
+#
 $CMP Bus_PCIexpress_x16_164_Position
 D PCI bus connector for universal 5V/3.3V cards
 K PCI 5V 3.3V 3V3
@@ -69,6 +74,11 @@ $ENDCMP
 $CMP DHN-04-V
 D DIP Switches / SIP Switches Half Pitch Dip switch 1.6mm height
 F https://componentsearchengine.com/Datasheets/1/DHN-04-V.pdf
+$ENDCMP
+#
+$CMP EEV-FK1H102M
+D Aluminum Electrolytic Capacitors - SMD 1000uF 50V
+F https://componentsearchengine.com/Datasheets/1/EEV-FK1H102M.pdf
 $ENDCMP
 #
 $CMP IKD0403101
@@ -106,6 +116,11 @@ D Isolator, SI8650AB-B-IS1 Silicon Labs Si8651BB-B-IS1 PCB SMT 5-channel Digital
 F https://componentsearchengine.com/Datasheets/1/SI8651BB-B-IS1.pdf
 $ENDCMP
 #
+$CMP STM32F042K6T6TR
+D ARM Microcontrollers - MCU Mainstream ARM Cortex-M0 USB line MCU with 32 Kbytes Flash, 48 MHz CPU, USB, CAN and CEC functions
+F https://componentsearchengine.com/Datasheets/1/STM32F042K6T6TR.pdf
+$ENDCMP
+#
 $CMP Si8621AB-B-ISR
 D Digital Isolators 2.5 kV 1 forward & 1 reverse 2-channel isolator
 F https://componentsearchengine.com/Datasheets/1/SI8621AB-B-ISR.pdf
@@ -124,6 +139,12 @@ $ENDCMP
 $CMP UUG1H471MNQ6ZD
 D Aluminum Electrolytic Capacitors - SMD 470uF 20% 50V High Capacitance-SMT
 F https://componentsearchengine.com/Datasheets/1/UUG1H471MNQ6ZD.pdf
+$ENDCMP
+#
+$CMP Si8660BA-B-IS1
+D Silicon Labs Si8660BA-B-IS1 PCB SMT, 6-channel Digital Isolator 150MBps, 1 kV, 16-Pin SOIC
+K
+F https://componentsearchengine.com/Datasheets/1/SI8660BA-B-IS1.pdf
 $ENDCMP
 #
 #End Doc Library

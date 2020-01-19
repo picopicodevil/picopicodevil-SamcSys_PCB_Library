@@ -147,4 +147,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/SI8660BA-B-IS1.pdf
 $ENDCMP
 #
+$CMP AP7381-50SA-7
+D LDO Voltage Regulators LDO CMOS LowCurr SOT23 T&R 3K
+K
+F https://componentsearchengine.com/Datasheets/1/AP7381-50SA-7.pdf
+$ENDCMP
+#
 #End Doc Library

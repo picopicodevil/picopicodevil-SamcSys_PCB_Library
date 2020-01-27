@@ -42,6 +42,11 @@ K usb universal serial bus type-C USB2.0
 F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
 $ENDCMP
 #
+$CMP AP7381-50SA-7
+D LDO Voltage Regulators LDO CMOS LowCurr SOT23 T&R 3K
+F https://componentsearchengine.com/Datasheets/1/AP7381-50SA-7.pdf
+$ENDCMP
+#
 $CMP BD63150AFM-E2
 D ROHM BD63150AFM-E2 Motor Driver IC 36-Pin, HSOP-M
 F https://componentsearchengine.com/Datasheets/1/BD63150AFM-E2.pdf
@@ -131,6 +136,11 @@ D Isolator, Si8651BB-B-IS1 Silicon Labs Si8651BB-B-IS1 PCB SMT 5-channel Digital
 F https://componentsearchengine.com/Datasheets/1/SI8651BB-B-IS1.pdf
 $ENDCMP
 #
+$CMP Si8660BA-B-IS1
+D Silicon Labs Si8660BA-B-IS1 PCB SMT, 6-channel Digital Isolator 150MBps, 1 kV, 16-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/SI8660BA-B-IS1.pdf
+$ENDCMP
+#
 $CMP ULN2004D1013TR
 D ULN2004D1013TR, Darlington Transistor Array, NPN 0.5A 50V, Array 7 HFE:1000, 16-Pin, SO
 F https://componentsearchengine.com/Datasheets/1/ULN2004D1013TR.pdf
@@ -139,18 +149,6 @@ $ENDCMP
 $CMP UUG1H471MNQ6ZD
 D Aluminum Electrolytic Capacitors - SMD 470uF 20% 50V High Capacitance-SMT
 F https://componentsearchengine.com/Datasheets/1/UUG1H471MNQ6ZD.pdf
-$ENDCMP
-#
-$CMP Si8660BA-B-IS1
-D Silicon Labs Si8660BA-B-IS1 PCB SMT, 6-channel Digital Isolator 150MBps, 1 kV, 16-Pin SOIC
-K
-F https://componentsearchengine.com/Datasheets/1/SI8660BA-B-IS1.pdf
-$ENDCMP
-#
-$CMP AP7381-50SA-7
-D LDO Voltage Regulators LDO CMOS LowCurr SOT23 T&R 3K
-K
-F https://componentsearchengine.com/Datasheets/1/AP7381-50SA-7.pdf
 $ENDCMP
 #
 #End Doc Library

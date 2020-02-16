@@ -1,4 +1,4 @@
-(module NVMFD5C446NLWFT1G (layer F.Cu) (tedit 5DEF960C)
+(module NVMFD5C446NLWFT1G (layer F.Cu) (tedit 5E49A547)
   (descr "DFN8 5x6 (SO8FL) CASE 506BT")
   (tags "MOSFET (N-Channel)")
   (attr smd)
@@ -41,4 +41,9 @@
   (pad 5 smd rect (at 2.527 -1.757) (size 0.495 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.24 -0.897) (size 2.08 4.28) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -1.24 -0.897) (size 2.08 4.28) (layers F.Cu F.Paste F.Mask))
+  (model C:/Users/yuto/OneDrive/Documents/KiCAD/SamcSys_PCB_Library/SamacSys_Parts.3dshapes/NVMTS0D7N06CTXG.stp
+    (offset (xyz 0 0.25 0))
+    (scale (xyz 0.635 0.7 0.6))
+    (rotate (xyz 0 0 0))
+  )
 )

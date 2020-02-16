@@ -151,4 +151,16 @@ D Aluminum Electrolytic Capacitors - SMD 470uF 20% 50V High Capacitance-SMT
 F https://componentsearchengine.com/Datasheets/1/UUG1H471MNQ6ZD.pdf
 $ENDCMP
 #
+$CMP NVMTS0D7N06CTXG
+D MOSFET AFSM T6 60V SG NCH
+K
+F https://componentsearchengine.com/Datasheets/1/NVMTS0D7N06CTXG.pdf
+$ENDCMP
+#
+$CMP AT34C02D-MAHM-T
+D EEPROM Memory IC 2Kb (256 x 8) IC 1MHz 8-UDFN (2x3)
+K
+F https://componentsearchengine.com/Datasheets/1/AT34C02D-MAHM-T.pdf
+$ENDCMP
+#
 #End Doc Library

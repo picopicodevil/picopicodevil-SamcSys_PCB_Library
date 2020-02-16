@@ -1,14 +1,14 @@
-(module "SOP254P980X370-8N" (layer F.Cu)
+(module SOP254P980X370-8N (layer F.Cu) (tedit 5E49A995)
   (descr "Surface Mount DIP_1")
-  (tags "Switch")
+  (tags Switch)
   (attr smd)
   (fp_text reference S** (at 0 0) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text user %R (at 0 0) (layer F.Fab)
+  (fp_text value SOP254P980X370-8N (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value "SOP254P980X370-8N" (at 0 0) (layer F.SilkS) hide
+  (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -5.6 -5.8) (end 5.6 -5.8) (layer F.CrtYd) (width 0.05))
@@ -33,9 +33,14 @@
   (pad 6 smd rect (at 4.55 1.27 90) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 4.55 -1.27 90) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 4.55 -3.81 90) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
-  (model "C:\SamcSys_PCB_Library\KiCad\SamacSys_Parts.3dshapes\\IKD0403101.stp"
+  (model C:\SamcSys_PCB_Library\KiCad\SamacSys_Parts.3dshapes\IKD0403101.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1.1 1))
+    (rotate (xyz 0 0 90))
   )
 )

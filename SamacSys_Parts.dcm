@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MBED-LPC1768
+D ARM mbed LPC1768 Module
+K
+F https://os.mbed.com/platforms/mbed-LPC1768/
+$ENDCMP
+#
+$CMP TK6R7P06PL,RQ
+D MOSFET N-Ch 60V 1990pF 26nC 74A 66W
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=57939&prodName=TK6R7P06PL
+$ENDCMP
+#
 #End Doc Library
